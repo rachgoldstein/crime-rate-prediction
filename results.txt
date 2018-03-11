@@ -1,0 +1,14 @@
+Results of linear regression, closed form:
+  RMSE value on training data: [ 0.12768967]
+  RMSE value on test data: [ 0.14583464]
+ 
+Results of ridge regression, closed form:
+  RMSE value on test data: [ 0.14574651]
+  
+Results of linear regression, gradient descent:
+  RMSE value on training data: [ 0.12778151]
+  RMSE value on test data: [ 0.14614898]
+  
+Results of ridge regression, gradient descent:
+  RMSE value on training data: [ 0.12879872]
+  RMSE value on test data: [ 0.14574161]
