@@ -1,6 +1,4 @@
 #Rachel Goldstein
-#COEN 140
-#HW 3
 
 import numpy as np
 
